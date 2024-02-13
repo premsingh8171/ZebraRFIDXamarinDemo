@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ZebraRFIDXamarinDemo.Android": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
